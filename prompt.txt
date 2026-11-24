@@ -1,0 +1,4 @@
+Write a program that outputs a single funny one-line resignation letter to a text file.
+The letter must be exactly one line, between 1 and 140 characters long, and read like
+a real resignation note a person could actually send, with the joke landing in that
+single line. Give it a specific job or workplace voice and a surprise punchline.
